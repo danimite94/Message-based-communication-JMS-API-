@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Researcher>
+	<Total_num_cit_autor>71</Total_num_cit_autor>
+	<Total_cit_ano>
+		<Ano>
+			<Id>2010</Id>
+			<Num>2</Num>
+		</Ano>
+		<Ano>
+			<Id>2011</Id>
+			<Num>5</Num>
+		</Ano>
+		<Ano>
+			<Id>2012</Id>
+			<Num>10</Num>
+		</Ano>
+		<Ano>
+			<Id>2013</Id>
+			<Num>17</Num>
+		</Ano>
+		<Ano>
+			<Id>2016</Id>
+			<Num>1</Num>
+		</Ano>
+		<Ano>
+			<Id>2014</Id>
+			<Num>15</Num>
+		</Ano>
+		<Ano>
+			<Id>2015</Id>
+			<Num>21</Num>
+		</Ano>
+	</Total_cit_ano>
+	<Publications>
+		<Publication>
+			<Title>Robustness-Driven Resilience Evaluation of Self-Adaptive
+				Software Systems</Title>
+			<Authors>Javier Cámara, Rogério de Lemos, Nuno Laranjeiro, Rafael
+				Ventura, Marco Vieira</Authors>
+			<Publication_date>2015/5/4</Publication_date>
+			<Description>Abstract—An increasingly important requirement for
+				certain classes of software-intensive systems is the ability to
+				self-adapt their structure and behavior at run-time when reacting to
+				changes that may occur to the system, its environment, or its goals.
+				A major challenge related to self-adaptive software systems is the
+				ability to provide assurances of their resilience when facing
+				changes. Since in these systems, the components that act as
+				controllers of a target system incorporate highly complex software,
+				there is the need to ...</Description>
+			<Citations>
+				<Quantity>1</Quantity>
+				<Citation>
+					<Title>Software Resilience and the Effectiveness of Software
+						Mitigation in Microcontrollers.</Title>
+					<Date>2015</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Characterizing the performance of web service frameworks under
+				security attacks</Title>
+			<Authors>Rui André Oliveira, Nuno Laranjeiro, Marco Vieira</Authors>
+			<Publication_date>2015/4/13</Publication_date>
+			<Description>Abstract Web Services are a platform-independent
+				technology that enables business processes to be accessible
+				worldwide. In this context, web service frameworks play a key role
+				as intermediate layers, offering support for interoperability and
+				communication between providers and consumers. Due to their
+				relevance in the overall infrastructure, frameworks are a frequent
+				target of attacks trying to impact the performance of the provided
+				services. This paper proposes an experimental approach for assessing
+				the performance of web ...</Description>
+			<Citations>
+				<Quantity>1</Quantity>
+				<Citation>
+					<Title>Detection of Lightweight Directory Access Protocol Query
+						Injection Attacks in Web Applications.</Title>
+					<Date>2015</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Understanding Interoperability Issues of Web Service
+				Frameworks</Title>
+			<Authors>Ivano Alessandro Elia, Nuno Laranjeiro, Marco Vieira
+			</Authors>
+			<Publication_date>2014/6/23</Publication_date>
+			<Description>Abstract—Web Services are a set of technologies designed
+				to support the invocation of remote services by client applications,
+				with the key goal of providing interoperable
+				application-to-application interaction while supporting vendor and
+				platform independence. The goal of this work is to study the real
+				level of interoperability provided by these technologies through a
+				massive experimental campaign involving a wide set of very popular
+				frameworks for web services, implemented using seven different
+				programming languages. ...</Description>
+			<Citations>
+				<Quantity>3</Quantity>
+				<Citation>
+					<Title>A Practical Approach Towards Automatic Testing of Web
+						Services Interoperability.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>ITWS: An Extensible Tool for Interoperability Testing of Web
+						Services.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>A Field Perspective on the Interoperability of Web Services.
+					</Title>
+					<Date>2014</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Testing the robustness of controllers for self-adaptive
+				systems</Title>
+			<Authors>Javier Cámara, Rogério de Lemos, Nuno Laranjeiro, Rafael
+				Ventura, Marco Vieira</Authors>
+			<Publication_date>2014/1/23</Publication_date>
+			<Description>Abstract Self-adaptive systems are software-intensive
+				systems endowed with the ability to respond to a variety of changes
+				that may occur in their environment, goals, or the system itself by
+				adapting their structure and behaviour at run-time in an autonomous
+				way. Controllers are complex components incorporated in
+				self-adaptive systems, which are crucial to their function since
+				they are in charge of adapting the target system by executing
+				actions through effectors, based on information monitored by probes.
+				However, although ...</Description>
+			<Citations>
+				<Quantity>6</Quantity>
+				<Citation>
+					<Title>Towards a framework for testing and simulating self adaptive
+						systems.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>A Testing Scheme for Self-Adaptive Software Systems with
+						Architectural Runtime Models.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Design Patterns for Self Adaptive Systems Engineering.
+					</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Automated generation of adaptive test plans for
+						self-adaptive systems.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>A Formal Approach for Designing Distributed Self-Adaptive
+						Systems.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Perpetual assurances in self-adaptive systems.</Title>
+					<Date>2014</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>A technique for deploying robust web services</Title>
+			<Authors>Nuno Laranjeiro, Marco Vieira, Henrique Madeira</Authors>
+			<Publication_date>2014/1</Publication_date>
+			<Description>Abstract—Developing robust web services is a difficult
+				task. Field studies show that a large number of web services are
+				deployed with robustness problems (ie, presenting unexpected
+				behaviors in the presence of invalid inputs). Although several
+				techniques for the identification of robustness problems have been
+				proposed in the past, there is no practical approach to
+				automatically fix those problems. This paper proposes a mechanism
+				that automatically fixes robustness problems in web services. The
+				approach consists of using ...</Description>
+			<Citations>
+				<Quantity>6</Quantity>
+				<Citation>
+					<Title>Assessing Dependability with Software Fault Injection: A
+						Survey.</Title>
+					<Date>2016</Date>
+				</Citation>
+				<Citation>
+					<Title>ENDORSE THE TRUSTFUL QoS TO CRAFT MASHUP/BUSINESS ORIENTED
+						WEB SERVICES AND RECTIFY MALICIOUS ATTACKS.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Security slicing for auditing XML, XPath, and SQL injection
+						vulnerabilities.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Validation Techniques for Fault Emulation of SRAM-based
+						FPGAs.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Towards Patching Memory Leak Bugs in Off-The-Shelf Software.
+					</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>An empirical study of injected versus actual interface
+						errors.</Title>
+					<Date>2014</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Towards evaluating the impact of data quality on service
+				applications</Title>
+			<Authors>Naghmeh Ivaki, Nuno Laranjeiro, Marco Vieira</Authors>
+			<Publication_date>2013/6/24</Publication_date>
+			<Description>Abstract—Service applications frequently make use of a
+				relational database to store and retrieve data and rely on the
+				correctness of this data to deliver service to clients. Despite
+				this, relational databases do not provide support for complex data
+				integrity restrictions, which have to be controlled by the
+				application. As such, bugs present in service applications can
+				easily lead to the storage of incorrect data that, at random
+				instants can cause applications to fail and stop delivering service,
+				which can severely impact clients, other applications, and ...
+			</Description>
+			<Citations>
+				<Quantity>1</Quantity>
+				<Citation>
+					<Title>A Survey on Data Quality: Classifying Poor Data.</Title>
+					<Date>2015</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Robustness evaluation of controllers in self-adaptive software
+				systems</Title>
+			<Authors>Javier Camara, Rogério de Lemos, Nuno Laranjeiro, Renato
+				Ventura, Marco Vieira</Authors>
+			<Publication_date>2013/4/1</Publication_date>
+			<Description>Abstract An increasingly important requirement for
+				softwareintensive systems is the ability to self-manage by adapting
+				their structure and behavior at run-time in an autonomous way as a
+				response to a variety of changes that may occur to the system, its
+				environment, or its goals. In particular, self-adaptive (or
+				autonomic) systems incorporate complex software components that act
+				as controllers of a target system by executing actions through
+				effectors, based on information monitored by probes. However,
+				although these controllers are ...</Description>
+			<Citations>
+				<Quantity>6</Quantity>
+				<Citation>
+					<Title>Software Frameworks for SDR.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Robustness-Driven Resilience Evaluation of Self-Adaptive
+						Software Systems.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Robustness evaluation of the rainbow framework for
+						self-adaptation.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Empirical resilience evaluation of an architecture-based
+						self-adaptive software system.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Testing the robustness of controllers for self-adaptive
+						systems.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>HLA Middleware Robustness and Scalability Evaluation in the
+						Context of Satellite Simulators.</Title>
+					<Date>2013</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>WSFAggressor: an extensible web service framework attacking
+				tool</Title>
+			<Authors>Rui André Oliveira, Nuno Laranjeiro, Marco Vieira</Authors>
+			<Publication_date>2012/12/6</Publication_date>
+			<Description>Abstract This paper presents a tool for testing the
+				security of web service frameworks. The tool implements a large set
+				of attack types, defined based on previous security research
+				studies, existing testing tools, and field experience. The
+				motivation is that developers frequently build web services based on
+				the assumption that the underlying frameworks are secure, which is
+				not always the case. Despite the evident need for security in the
+				platforms that support services, existing security testing tools are
+				very limited. In practice, most tools ...</Description>
+			<Citations>
+				<Quantity>4</Quantity>
+				<Citation>
+					<Title>Assessing the security of web service frameworks against
+						Denial of Service attacks.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Known XML Vulnerabilities Are Still a Threat to Popular
+						Parsers and Open Source Systems.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Characterizing the performance of web service frameworks
+						under security attacks.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Entwurf einer Methodik zum Testen der Sicherheit von
+						Web-Service-basierten Systemen.</Title>
+					<Date>2013</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>A robustness testing approach for SOAP Web services</Title>
+			<Authors>Nuno Laranjeiro, Marco Vieira, Henrique Madeira</Authors>
+			<Publication_date>2012/9/1</Publication_date>
+			<Description>Abstract The use of Web services in enterprise
+				applications is quickly increasing. In a Web services environment,
+				providers supply a set of services for consumers. However, although
+				Web services are being used in business-critical environments, there
+				are no practical means to test or compare their robustness to
+				invalid and malicious inputs. In fact, client applications are
+				typically developed with the assumption that the services being used
+				are robust, which is not always the case. Robustness failures in
+				such environments are particularly dangerous ...</Description>
+			<Citations>
+				<Quantity>3</Quantity>
+				<Citation>
+					<Title>Bringing Test-Driven Development to web service
+						choreographies.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Proposed design and implementation for RESTful web server.
+					</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Towards evaluating the impact of data quality on service
+						applications.</Title>
+					<Date>2013</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Experimental evaluation of web service frameworks in the
+				presence of security attacks</Title>
+			<Authors>Rui Andre Oliveira, Nuno Laranjeiro, Marco Vieira</Authors>
+			<Publication_date>2012/6/24</Publication_date>
+			<Description>Abstract—Web services are increasingly being used to
+				provide critical operations in business-to-business and
+				safety-critical environments. In these environments the exploitation
+				of security vulnerabilities may result in major damages in the
+				services infrastructures, financial or reputation losses to the
+				organizations involved, and other catastrophic consequences for the
+				users and the environment. Web services frameworks are the basis for
+				developers to create and deploy web services, and must provide a
+				robust ...</Description>
+			<Citations>
+				<Quantity>5</Quantity>
+				<Citation>
+					<Title>Assessing the security of web service frameworks against
+						Denial of Service attacks.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Characterizing the performance of web service frameworks
+						under security attacks.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Entwurf einer Methodik zum Testen der Sicherheit von
+						Web-Service-basierten Systemen.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>A new approach towards DoS penetration testing on web
+						services.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>WSFAggressor: an extensible web service framework attacking
+						tool.</Title>
+					<Date>2012</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>A Composed Approach for Automatic Classification of Web
+				Services Robustness</Title>
+			<Authors>Rui Oliveira, Nuno Laranjeiro, Marco Vieira</Authors>
+			<Publication_date>2011/7/4</Publication_date>
+			<Description>Abstract—Testing Web Services (WS) for robustness is a
+				lengthy and arduous process. After testing a set of services, there
+				is typically a very large quantity and variety of test results to be
+				analyzed, which poses a challenge to the developer that has to
+				manually process all results and identify the outputs that indicate
+				the presence of bugs in the code. Previous research indicates that
+				well-known automatic classification algorithms can be used to
+				automate this step. However, the applicability of such algorithms is
+				also limited, as they are frequently ...</Description>
+			<Citations>
+				<Quantity>2</Quantity>
+				<Citation>
+					<Title>Web Service classification using Multi-Layer Perceptron
+						optimized with Tabu search.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Automated Realistic Test Input Generation and Cost Reduction
+						in Service-centric System Testing.</Title>
+					<Date>2013</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>WSRTesting: Hands-on Solution to Improve Web Services
+				Robustness Testing</Title>
+			<Authors>G Carrozza, A Napolitano, N Laranjeiro, M Viera</Authors>
+			<Publication_date>2011/4/25</Publication_date>
+			<Description>Abstract-Web services are widely used as software
+				components that must provide a robust interface to client
+				applications. Robustness testing is an approach particularly
+				suitable for detecting robustness issues in web services. In fact,
+				several research works have been conducted in the past leading to
+				the proposal of different robustness testing techniques for such
+				environments. However, although of utmost importance, most
+				techniques do not consider the needs of complex systems and services
+				as the ones being developed by the ...</Description>
+			<Citations>
+				<Quantity>1</Quantity>
+				<Citation>
+					<Title>Automated Realistic Test Input Generation and Cost Reduction
+						in Service-centric System Testing.</Title>
+					<Date>2013</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>A Learning-Based Approach to Secure Web Services from
+				SQL/XPath Injection Attacks</Title>
+			<Authors>Nuno Laranjeiro, Marco Vieira, Henrique Madeira</Authors>
+			<Publication_date>2010/12/13</Publication_date>
+			<Description>Abstract—Business critical applications are increasingly
+				being deployed as web services that access database systems, and
+				must provide secure operations to its clients. Although the open web
+				environment emphasizes the need for security, several studies show
+				that web services are still being deployed with command injection
+				vulnerabilities. This paper proposes a learning-based approach to
+				secure web services against SQL and XPath Injection attacks. Our
+				approach is able to transparently learn valid request patterns ( ...
+			</Description>
+			<Citations>
+				<Quantity>2</Quantity>
+				<Citation>
+					<Title>Aegis: Um Modelo de Proteção à Dados Sensíveis em Ambientes
+						Client-side.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Attacks on Web Services Need to Secure XML on Web.</Title>
+					<Date>2013</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Applying Text Classification Algorithms in Web Services
+				Robustness Testing</Title>
+			<Authors>Nuno Laranjeiro, Rui Oliveira, Marco Vieira</Authors>
+			<Publication_date>2010/10/31</Publication_date>
+			<Description>Abstract—Testing web services for robustness is an
+				effective way of disclosing software bugs. However, when executing
+				robustness tests, a very large amount of service responses has to be
+				manually classified to distinguish regular responses from responses
+				that indicate robustness problems. Besides requiring a large amount
+				of time and effort, this complex classification process can easily
+				lead to errors resulting from the human intervention in such a
+				laborious task. Text classification algorithms have been applied
+				successfully in many ...</Description>
+			<Citations>
+				<Quantity>11</Quantity>
+				<Citation>
+					<Title>Data mining algorithms for Web-services classification.
+					</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>A technique for deploying robust web services.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Automated Realistic Test Input Generation and Cost Reduction
+						in Service-centric System Testing.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Robustness Evaluation of Software Systems through Fault
+						Injection.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>A systematic review of software robustness.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Testing and verification in service‐oriented architecture: a
+						survey.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Web Classification Algorithm Using Support Vector Machine
+						and Particle Swarm Optimization.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>Specification-guided golden run for analysis of robustness
+						testing results.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>A robustness testing approach for SOAP Web services.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>Locality Sensitive Hashing Based Service Classification.
+					</Title>
+					<Date>2011</Date>
+				</Citation>
+				<Citation>
+					<Title>A Composed Approach for Automatic Classification of Web
+						Services Robustness.</Title>
+					<Date>2011</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+		<Publication>
+			<Title>Effective Detection of SQL/XPath Injection Vulnerabilities in
+				Web Services</Title>
+			<Authors>Nuno Antunes, Nuno Laranjeiro, Marco Vieira, Henrique
+				Madeira</Authors>
+			<Publication_date>2009/9/21</Publication_date>
+			<Description>Abstract This paper proposes a new automatic approach
+				for the detection of SQL Injection and XPath Injection
+				vulnerabilities, two of the most common and most critical types of
+				vulnerabilities in web services. Although there are tools that allow
+				testing web applications against security vulnerabilities, previous
+				research shows that the effectiveness of those tools in web services
+				environments is very poor. In our approach a representative workload
+				is used to exercise the web service and a large set of SQL/XPath
+				Injection attacks are ...</Description>
+			<Citations>
+				<Quantity>19</Quantity>
+				<Citation>
+					<Title>Assessing and Comparing Vulnerability Detection Tools for
+						Web Services: Benchmarking Approach and Examples.</Title>
+					<Date>2015</Date>
+				</Citation>
+				<Citation>
+					<Title>Characterization of attacks collected from the deployment of
+						Web service honeypot.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>Automated testing for SQL injection vulnerabilities: an
+						input mutation approach.</Title>
+					<Date>2014</Date>
+				</Citation>
+				<Citation>
+					<Title>A Dynamic SQL injection vulnerability test case generation
+						model based on the multiple phases detection approach.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Runtime Detection and Prevention for Structure Query
+						Language Injection Attacks.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Security Testing in SOAs: Techniques and Tools.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Attacks on Web Services Need to Secure XML on Web.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>Soa-scanner: An integrated tool to detect vulnerabilities in
+						service-based infrastructures.</Title>
+					<Date>2013</Date>
+				</Citation>
+				<Citation>
+					<Title>CIVD: detection of command injection vulnerabilities in web
+						services through aspect–oriented programming.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>Model-based system architecture for preventing XPath
+						injection in database-centric web services environment.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>WSFAggressor: an extensible web service framework attacking
+						tool.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>Evaluating and improving penetration testing in web
+						services.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>Attack model based penetration test for SQL injection
+						vulnerability.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>Experimental evaluation of web service frameworks in the
+						presence of security attacks.</Title>
+					<Date>2012</Date>
+				</Citation>
+				<Citation>
+					<Title>XIVD: Runtime Detection of XPath Injection Vulnerabilities
+						in XML Databases through Aspect Oriented Programming.</Title>
+					<Date>2011</Date>
+				</Citation>
+				<Citation>
+					<Title>Comparison of penetration testing tools for web
+						applications.</Title>
+					<Date>2011</Date>
+				</Citation>
+				<Citation>
+					<Title>Enhancing penetration testing with attack signatures and
+						interface monitoring for the detection of injection
+						vulnerabilities in web services.</Title>
+					<Date>2011</Date>
+				</Citation>
+				<Citation>
+					<Title>Security Standards Perspective to Fortify Web Database
+						Applications From Code Injection Attacks.</Title>
+					<Date>2010</Date>
+				</Citation>
+				<Citation>
+					<Title>Benchmarking vulnerability detection tools for web services.
+					</Title>
+					<Date>2010</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+	</Publications>
+</Researcher>
